@@ -4,7 +4,7 @@ Based on your formatting style from the **Exclusive – E-Commerce Website** pro
 
 # 🎵 Spotify Frontend UI Clone
 
-**🔗 Live Demo:** [https://spotify-clone-git-main-lokeshsattimsetti7s-projects.vercel.app/](https://spotify-clone-git-main-lokeshsattimsetti7s-projects.vercel.app/)
+**🔗 Live Demo:** [https://spotify-clone-q7o1-lokeshsattimsetti7s-projects.vercel.app/]
 **📦 GitHub Repo:** [https://github.com/lokeshsattimsetti7/SpotifyClone.git](https://github.com/lokeshsattimsetti7/SpotifyClone.git)
 
 ## 📄 Overview
